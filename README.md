@@ -7,7 +7,7 @@ Está disponível para vizualização no endereço  https://felippevelosomarinho
 ![TheSimpsonPrint2](https://user-images.githubusercontent.com/60450622/93280900-31788a00-f7a1-11ea-8e48-c14dd4d819ad.PNG)
 
 Na primeira parte há o nome da série e uma breve sinopse do desenho animado.
-Além disso, escondido por traz de um hover colocado no cabeçalho, tem meu nome e o nome da turma do curso.
+Além disso, escondido por traz de um hover colocado na declaração do css .cabeçalho, lá está o nome da turma do curso e o meu nome.
 
 
 ## Trabalho focado em explorar, principalmente as funcionalidade do hover.
