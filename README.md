@@ -6,6 +6,8 @@ Está disponível para vizualização no endereço  https://felippevelosomarinho
 
 ![TheSimpsonPrint2](https://user-images.githubusercontent.com/60450622/93280900-31788a00-f7a1-11ea-8e48-c14dd4d819ad.PNG)
 
-## Trabalho fcado em explorar, principalmente as funcionalidade do hover.
+## Trabalho focado em explorar, principalmente as funcionalidade do hover.
+  
+  Ao passar o mouse por cima dos ícones dos personagens representados na página, através do seletor hover o cartão é expandido e exibe um vídeo do youtube com os melhores momentos de cada personagem. 
   
 ![TheSimpsonPrint1](https://user-images.githubusercontent.com/60450622/93280868-16a61580-f7a1-11ea-9bac-d7715076a6a1.PNG)
