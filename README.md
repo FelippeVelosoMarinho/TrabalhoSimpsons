@@ -5,4 +5,4 @@
 Está disponível para vizualização no endereço  https://felippevelosomarinho.github.io/TrabalhoSimpsons/ pelas páginas do GitHub.
 
 ## Screenshot
-![Print](https://user-images.githubusercontent.com/60450622/93270952-84921300-f788-11ea-840c-94a9af3d341e.png)
+![TheSimpsonPrint1](https://user-images.githubusercontent.com/60450622/93280442-0c374c00-f7a0-11ea-8239-5a836c6ed4ee.PNG)
