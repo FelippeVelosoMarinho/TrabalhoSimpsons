@@ -4,5 +4,8 @@
     
 Está disponível para vizualização no endereço  https://felippevelosomarinho.github.io/TrabalhoSimpsons/ pelas páginas do GitHub.
 
-## Screenshot
-![TheSimpsonPrint1](https://user-images.githubusercontent.com/60450622/93280442-0c374c00-f7a0-11ea-8239-5a836c6ed4ee.PNG)
+![TheSimpsonPrint2](https://user-images.githubusercontent.com/60450622/93280900-31788a00-f7a1-11ea-8e48-c14dd4d819ad.PNG)
+
+## Trabalho fcado em explorar, principalmente as funcionalidade do hover.
+  
+![TheSimpsonPrint1](https://user-images.githubusercontent.com/60450622/93280868-16a61580-f7a1-11ea-9bac-d7715076a6a1.PNG)
